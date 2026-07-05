@@ -1,0 +1,40 @@
+M|Inception|Sci-Fi|8.8|50|200|
+M|The Dark Knight|Action|9|45|180|
+M|Interstellar|Sci-Fi|8.6|55|220|
+M|Parasite|Thriller|8.6|40|170|
+M|The Matrix|Sci-Fi|8.7|50|190|
+M|Gladiator|Action|8.5|45|175|
+M|Joker|Drama|8.4|40|160|
+M|La La Land|Musical|8|35|150|
+M|Titanic|Romance|7.9|50|200|
+M|Shutter Island|Mystery|8.2|40|170|
+M|The Godfather|Crime|9.2|55|230|
+M|Avengers: Endgame|Superhero|8.4|60|250|
+M|Forrest Gump|Drama|8.8|45|180|
+M|Fight Club|Thriller|8.8|45|190|
+M|The Prestige|Mystery|8.5|40|170|
+M|Coco|Animation|8.4|35|140|
+M|Whiplash|Drama|8.5|40|160|
+M|Toy Story|Animation|8.3|30|120|
+M|The Lion King|Animation|8.5|30|130|
+M|The Social Network|Biography|7.7|35|150|
+T|Breaking Bad|Crime|9.5|100|400
+T|Stranger Things|Sci-Fi|8.7|90|350
+T|Game of Thrones|Fantasy|9.2|110|500
+T|Friends|Comedy|8.9|70|300
+T|The Office|Comedy|8.9|70|280
+T|Sherlock|Mystery|9.1|90|360
+T|Dark|Sci-Fi|8.8|85|320
+T|Narcos|Crime|8.8|80|300
+T|The Crown|Drama|8.6|85|320
+T|Money Heist|Thriller|8.3|85|330
+T|Peaky Blinders|Crime|8.8|90|340
+T|The Mandalorian|Sci-Fi|8.7|90|320
+T|Better Call Saul|Crime|8.9|100|380
+T|The Witcher|Fantasy|8.2|85|310
+T|Brooklyn Nine-Nine|Comedy|8.4|75|290
+T|The Boys|Superhero|8.7|90|340
+T|Lucifer|Fantasy|8.1|85|310
+T|House of Cards|Drama|8.7|80|300
+T|The 100|Sci-Fi|7.6|75|270
+T|Rick and Morty|Animation|9.2|80|320
